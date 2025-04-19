@@ -3,6 +3,7 @@ Detta projekt innehåller automatiserade BDD-tester (Behavior Driven Development
 
 ---
 ## 📋 Innehåll
+
 ## Scenarios
 ### Alla scenarion finns beskrivna i ./features/*.feature
 ### ✅ Uppgift 1 – Identifiera testtyper
@@ -57,7 +58,7 @@ webshop_testing/
 │
 ├── requirements.txt                # Lista över beroenden
 ├── README.md                       # Projektbeskrivning (du läser den nu)
-└── .gitignore
+
 
 ```
 
